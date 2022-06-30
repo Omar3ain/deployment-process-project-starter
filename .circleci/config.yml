@@ -33,7 +33,11 @@ jobs:
           command: |
             npm run backend:build
       - run:
-          name: Deploy App
+          name: Deploy frontend:deploy
           command: |
             npm run frontend:deploy
+      - run:
+          name: Deploy backend:deploy
+          command: |
+            npm run backend:deploy
 
