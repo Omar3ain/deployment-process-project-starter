@@ -9,4 +9,11 @@ export const sequelize = new Sequelize({
 
   dialect: "postgres",
   storage: ":memory:",
+  pool: {
+    max: 15,
+    min: 5,
+    idle: 20000,
+    evict: 15000,
+    acquire: 30000
+  },
 });
