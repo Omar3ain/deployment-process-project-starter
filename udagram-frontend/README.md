@@ -11,9 +11,9 @@ frontend application made for blogs application which display logs of the user.
 ## to run the application in aws services:
 1. to run the application first write in the terminal "npm install" or "yarn"
 2. to run the application you make a S3 (aws service) to host frontend applications as following:
-<img src="../screenshots/s3/1.png">
-<img src="../screenshots/s3/2.png">
-<img src="../screenshots/s3/3.png">
+<img src="/screenshots/s3/1.PNG">
+<img src="/screenshots/s3/2.PNG">
+<img src="/screenshots/s3/3.PNG">
 
 3. write in the terimnal "npm run deploy"
 4. and get the link of application from S3 dashboard.

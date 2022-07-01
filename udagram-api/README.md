@@ -14,14 +14,14 @@ Server-side made for blogs application which save blogs,registration and logging
 1. to run the application first write in the terminal "npm install" or "yarn"
 2. to run the application  you must make a postgres database using RDS and include POSTGRES_USERNAME , POSTGRES_PASSWORD , POSTGRES_HOST(RDS database url iprovided in aws) , POSTGRES_DB and PORT of database.
 <img src="/screenshots/rds/1.PNG">
-<img src="../screenshots/dbs/2.png">
-<img src="../screenshots/dbs/3.png">
-<img src="../screenshots/dbs/4.png">
-<img src="../screenshots/dbs/5.png">
+<img src="/screenshots/rds/2.PNG">
+<img src="/screenshots/rds/3.PNG">
+<img src="/screenshots/rds/4.PNG">
+<img src="/screenshots/rds/5.PNG">
 
 3. for the server-side make a elasticbean stalk enviroment.
-<img src="../screenshots/elastic beanstalk/1.png">
-<img src="../screenshots/elastic beanstalk/2.png">
+<img src="/screenshots/elastic beanstalk/1.PNG">
+<img src="/screenshots/elastic beanstalk/2.PNG">
 
 4. write in the terimnal "npm run deploy"
 5. make sure that the right name of enivoment is written in the script.
