@@ -9,7 +9,7 @@
 7. add the necessary script for building and deoplying the app.
 8. add envimoment variables nesscessary for elastic beanstalk in cricleCI.
 9. git commit the changes and it and cricleCI will deoply the app for you.
-<img src="./screenshots/sercet keys.PNG">
+<img src="/screenshots/sercet keys.PNG">
 
 ### link of the Front-End Application :
     http://omar-udagram.s3-website-us-east-1.amazonaws.com
