@@ -13,7 +13,7 @@ Server-side made for blogs application which save blogs,registration and logging
 ## to run the application in aws services:
 1. to run the application first write in the terminal "npm install" or "yarn"
 2. to run the application  you must make a postgres database using RDS and include POSTGRES_USERNAME , POSTGRES_PASSWORD , POSTGRES_HOST(RDS database url iprovided in aws) , POSTGRES_DB and PORT of database.
-<img src="./blob/master/screenshots/dbs/1.png/screenshots/dbs/1.png">
+<img src="/screenshots/rds/1.PNG">
 <img src="../screenshots/dbs/2.png">
 <img src="../screenshots/dbs/3.png">
 <img src="../screenshots/dbs/4.png">
