@@ -51,6 +51,7 @@ jobs:
       - run:
           name: Deploy backend
           command: |
+            eb setenv PORT=3000
             npm run backend:deploy
 
 
