@@ -53,7 +53,7 @@ jobs:
 workflows:
     deploy_the_app:
       jobs:
-        -build-deploy
+        -build-deploy:
           filters:
             branches:
               only:
