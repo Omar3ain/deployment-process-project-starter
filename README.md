@@ -21,7 +21,7 @@
 
 DIAGRAM SHOWS THE PIPLELINE PROCESS.
 
-<img src="/screenshots/cricleCI/diagram.PNG">
+<img src="/screenshots/cricleCI/diagram.png">
 
 ## Deploying the application
 
