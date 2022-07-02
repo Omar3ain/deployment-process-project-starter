@@ -27,7 +27,11 @@ IN THIS PROJECT building and deploy the application as it is in the package.json
 
 DIAGRAM SHOWS THE PIPLELINE PROCESS.
 
-<img src="/screenshots/cricleCI/diagram.png">
+<img src="/screenshots/Circle ci diagram.png">
+
+DIAGRAM SHOWS THE WHOlE PROCESS.
+
+<img src="/screenshots/diagram.png">
 
 ## Deploying the application
 
